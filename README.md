@@ -1,4 +1,4 @@
-# Fix Fan Ramping on IT8622 / IT87-Based Mini Server
+# Fix Fan Ramping on IT8622 / IT87-Based Mini Server / Orico CF1000
 
 This guide explains how to fix constant fan ramp-up / ramp-down behaviour on a small server or mini PC that uses an **ITE IT8622 / IT8613E-family fan controller**.
 
